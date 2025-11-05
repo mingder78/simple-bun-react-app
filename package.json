@@ -1,5 +1,6 @@
 {
   "name": "simple-bun-react-app",
+  "version": "0.0.1",
   "module": "index.ts",
   "private": true,
   "type": "module",
