@@ -1,4 +1,4 @@
-# zz
+# simple-bun-react-app
 
 To install dependencies:
 
